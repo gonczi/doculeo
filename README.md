@@ -1,2 +1,2 @@
 # DocULeo
-The DocULeo pr🦁ject
+The DocULeo project
